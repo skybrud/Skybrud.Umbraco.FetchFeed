@@ -1,0 +1,4 @@
+syntax: glob
+FetchFeed/FetchFeed.v11.suo
+FetchFeed/FetchFeed/bin/*
+FetchFeed/FetchFeed/obj/*
