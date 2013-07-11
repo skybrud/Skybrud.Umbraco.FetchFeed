@@ -32,10 +32,10 @@ namespace Skybrud.Umbraco
 
                 foreach (var feed in feeds.Descendants("feed"))
                 {
-                    var alias = feed.Attribute("alias").ToString();
-                    var url = feed.Attribute("url").ToString();
-                    var path = feed.Attribute("path").ToString();
-                    var interval = feed.Attribute("interval").ToString();
+                    var alias = feed.Attribute("alias").Value;
+                    var url = feed.Attribute("url").Value;
+                    var path = feed.Attribute("path").Value;
+                    var interval = feed.Attribute("interval").Value;
 
                     if (alias != "" && url != "" && path != "" && interval != "")
                     {
