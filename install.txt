@@ -1,0 +1,9 @@
+Kopier K:\Skybrud.Umbraco.FetchFeed\FetchFeed\config\FetchFeed.config til /config/.
+
+Opsæt feed i /config/FetchFeed.config.
+
+Kopier K:\Skybrud.Umbraco.FetchFeed\FetchFeed\FetchFeed\bin\Release\Skybrud.Umbraco.FetchFeed.dll til /bin/.
+
+Tilføj følgende i /config/umbracoSettings.config:
+<task log="true" alias="FetchFeed" interval="60" url="http://localhost/FetchFeed/Update/"/>
+
