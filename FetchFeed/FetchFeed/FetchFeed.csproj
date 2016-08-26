@@ -39,7 +39,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="umbraco">
-      <HintPath>..\..\..\umbraco\umbracoSetup-600\stage\bin\umbraco.dll</HintPath>
+      <HintPath>..\assemblies\umbraco.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
