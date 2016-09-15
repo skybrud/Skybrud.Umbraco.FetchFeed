@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Skybrud.Umbraco.FetchFeed")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Umbraco package for periodically downloading files to disk by adding a scheduled task in Umbraco.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Skybrud.dk a/s")]
 [assembly: AssemblyProduct("FetchFeed")]
