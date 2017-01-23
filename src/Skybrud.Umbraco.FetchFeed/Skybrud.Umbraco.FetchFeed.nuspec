@@ -4,10 +4,10 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>Anders Bjerner</authors>
-    <owners>Anders Bjerner</owners>
-    <licenseUrl>https://github.com/skybrud/Skybrud.Umbraco.Redirects/blob/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/skybrud/Skybrud.Umbraco.Redirects/</projectUrl>
+    <authors>Anders Bjerner, Thomas Nielsen</authors>
+    <owners>Anders Bjerner, Thomas Nielsen</owners>
+    <licenseUrl>https://github.com/skybrud/Skybrud.Umbraco.FetchFeed/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skybrud/Skybrud.Umbraco.FetchFeed</projectUrl>
     <iconUrl>http://www.skybrud.dk/img/5431sk/icon/favicon.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
